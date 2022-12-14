@@ -1,0 +1,2 @@
+This assignment uses an API to get the weather for the next 7 days, decodes the data from a .json file and displays it, with additional back-side logic, the data
+in a chart, and also information about each day recorded in a simple website.
